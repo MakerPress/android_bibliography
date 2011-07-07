@@ -21,6 +21,7 @@ asciidoc: book.asc: line 15: reading: /work/tools/svn_hooks/checkouts/externalau
 asciidoc: book.asc: line 17: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter3.asciidoc
 asciidoc: book.asc: line 19: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter4.asciidoc
 asciidoc: book.asc: line 21: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter5.asciidoc
-asciidoc: book.asc: line 22: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter6.asciidoc
+asciidoc: book.asc: line 23: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter6.asciidoc
 Thu Jul  7 10:24:30 EDT 2011
 Thu Jul  7 10:24:36 EDT 2011
+Thu Jul  7 10:24:38 EDT 2011
