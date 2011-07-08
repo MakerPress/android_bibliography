@@ -16,7 +16,7 @@ _392 pages_
 
 Developing applications for Android and other mobile devices using web technologies is now well within reach. When the capabilities of HTML5 are combined with CSS3 and Javascript, web application developers have an opportunity to develop compelling mobile applications using familiar tools. Not only is it possible to build mobile web apps that feel as good as native apps, but to also write an application once and have it run a variety of different devices. This book teaches developers already familiar with web application development, how to code and structure a web app for use on the Android mobile platform. Additionally, through the practical samples in the book you will have been given solid exposure of where both the opportunities and challenges lie when building mobile apps the web way.
 
-_http://my.safaribooksonline.com/book/programming/android/9781430232766?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/android/9781430232766?cid=1107-bibilio-android-link[Read it on Safari Books Online]_
 
 === Building Android Apps with HTML, CSS, and JavaScript
 
@@ -34,7 +34,7 @@ _184 pages_
 
 If you know HTML, CSS, and JavaScript, you already have the tools you need to develop Android apps. With this book, you'll learn how to use these web technologies to design and build apps for any Android device, using the framework of your choice. No knowledge of Java is required.
 
-_http://my.safaribooksonline.com/book/programming/android/9781449399122?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/android/9781449399122?cid=1107-bibilio-android-link[Read it on Safari Books Online]_
 
 === Learning HTML5 Game Programming: A Hands-on Guide to Building Online Games Using Canvas, SVG, and WebGL
 
@@ -52,7 +52,7 @@ _350 pages_
 
 In this book you will learn how to create your HTML5- and JavaScript-based game by constructing several sample applications throughout the course of the chapters. You'll learn how and when to use Canvas, SVG, and WebGL, and how to use mobile SDKs to develop your game. Author James Williams not only teaches you the basic properties of any successful Web-based game but even walks you through a truncated development process to guide you in the development of your application. NOTE: This is an early draft version of Learning HTML5 Game Programming. As the author completes each chapter it will be uploaded here for your review and feedback.
 
-_http://my.safaribooksonline.com/book/programming/android/9780132685108?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/android/9780132685108?cid=1107-bibilio-android-link[Read it on Safari Books Online]_
 
 === Sams Teach Yourself HTML5 Mobile Application Development in 24 Hours
 
@@ -86,4 +86,4 @@ _368 pages_
 
 By the end of this book, you'll have the training, tools, and techniques for creating robust mobile web experiences on a wide array of platforms for your favorite smartphone or other mobile device.
 
-_http://my.safaribooksonline.com/book/programming/android/9781430226208?cid=1107-bibilio-android-link[Read it on Safari Online Books]_
+_http://my.safaribooksonline.com/book/programming/android/9781430226208?cid=1107-bibilio-android-link[Read it on Safari Books Online]_
