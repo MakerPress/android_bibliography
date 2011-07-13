@@ -4,9 +4,9 @@
 <?asciidoc-numbered?>
 
 <book lang="en">
-<title>Android Bibliography Pocket Guide</title>
+<title>Android Bibliography</title>
 <bookinfo>
-    <title>Android Bibliography Pocket Guide</title>
+    <title>Android Bibliography</title>
 <isbn>9781449311827</isbn>
   <edition>1</edition>
   <author>
@@ -25,467 +25,491 @@
 <title>Beginning Android Development</title>
 <sect1 id="_learning_android">
 <title>Learning Android</title>
-<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
-<emphasis>By Marko Gargenta</emphasis>
-<emphasis>ISBN: 9781449390501</emphasis>
-<emphasis>March 2011</emphasis>
-<emphasis>$34.99</emphasis>
-<emphasis>268 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis></simpara>
+<simpara><emphasis>By Marko Gargenta</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449390501</emphasis></simpara>
+<simpara><emphasis>March 2011</emphasis></simpara>
+<simpara><emphasis>$34.99</emphasis></simpara>
+<simpara><emphasis>268 pages</emphasis></simpara>
 <simpara>If you&#8217;re new to the Android mobile operating system, Learning Android is the perfect way to master the fundamentals. This gentle introduction shows you how to use Android&#8217;s basic building blocks to develop user interfaces, store data, and more. You&#8217;ll build an example application throughout the course of book, adding new features with each chapter. You&#8217;ll also build your own toolbox of code patterns that will help you program any type of Android application with ease.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781449304881?cid=1107-bibilio-android-link">Read it on Safari Books Online</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/rpMuc2">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_android_application_development">
 <title>Beginning Android Application Development</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Wei-Meng Lee</emphasis>
-<emphasis>ISBN: 9781118017111</emphasis>
-<emphasis>April 2011</emphasis>
-<emphasis>$39.99</emphasis>
-<emphasis>448 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Wei-Meng Lee</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781118017111</emphasis></simpara>
+<simpara><emphasis>April 2011</emphasis></simpara>
+<simpara><emphasis>$39.99</emphasis></simpara>
+<simpara><emphasis>448 pages</emphasis></simpara>
 <simpara>The Android OS is a popular and flexible platform for many of today&#8217;s most in-demand mobile devices. This full-color guide offers you a hands-on introduction to creating Android applications for the latest mobile devices. Veteran author Wei Meng Lee accompanies each lesson with real-world examples to drive home the content he covers. Beginning with an overview of core Android features and tools, he moves at a steady pace while teaching everything you need to know to successfully develop your own Android applications. This book pares down the most essential steps you need to know so you can start creating Android applications today.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781118017111?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/oDeG1u">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_sams_teach_yourself_android_application_development_in_24_hours_3rd_edition">
 <title>Sams Teach Yourself Android™ Application Development in 24 Hours, 3rd Edition</title>
-<simpara><emphasis>Sams</emphasis>
-<emphasis>By Shane Conder &amp; Lauren Darcey</emphasis>
-<emphasis>ISBN: 9780672335693</emphasis>
-<emphasis>August 2011</emphasis>
-<emphasis>$39.99</emphasis>
-<emphasis>510 pages</emphasis></simpara>
+<simpara><emphasis>Sams</emphasis></simpara>
+<simpara><emphasis>By Shane Conder &amp; Lauren Darcey</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780672335693</emphasis></simpara>
+<simpara><emphasis>August 2011</emphasis></simpara>
+<simpara><emphasis>$39.99</emphasis></simpara>
+<simpara><emphasis>510 pages</emphasis></simpara>
 <simpara>Android is the world&#8217;s #1 mobile development platform, and with the new Android 3.0, it&#8217;s becoming as popular for tablets as it is for smartphones. If you are a beginner, in just 24 lessons of one hour or less, this friendly, full-color book will help you master modern Android development. You can build a fully-featured app from scratch, learning all the skills you&#8217;ll need to create your own. Each lesson builds on prior chapters, providing a solid foundation for success. This edition is thoroughly updated for Android&#8217;s newest features and development tools, while still supporting the popular Android 2.0. By the time you&#8217;re finished with this book, you won&#8217;t just understand core Android concepts, you&#8217;ll be comfortable writing, testing, and publishing your own new apps.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132786904?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nBCcs8">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_android_apps_for_absolute_beginners">
 <title>Android Apps for Absolute Beginners</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Wallace Jackson</emphasis>
-<emphasis>ISBN: 9781430234463</emphasis>
-<emphasis>April 2011</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>344 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Wallace Jackson</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430234463</emphasis></simpara>
+<simpara><emphasis>April 2011</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>344 pages</emphasis></simpara>
 <simpara>Anybody can start building simple apps for the Android platform, and this book will show you how. This book takes you through the process of getting your first Android applications up and running using plain English and practical examples. It cuts through the fog of jargon and mystery that surrounds Android application development, and gives you simple, step-by-step instructions to get you started. If you have a great idea for an Android app, but have never programmed before, then this book is for you. You don&#8217;t need to have any previous computer programming skills—as long as you have a desire to learn, and you know which end of the mouse is which, the world of Android app development awaits.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430234463?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/ndySl2">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_beginning_android_2">
 <title>Beginning Android 2</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Mark L. Murphy</emphasis>
-<emphasis>ISBN: 9781430226291</emphasis>
-<emphasis>March 2010</emphasis>
-<emphasis>$44.99</emphasis>
-<emphasis>416 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Mark L. Murphy</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430226291</emphasis></simpara>
+<simpara><emphasis>March 2010</emphasis></simpara>
+<simpara><emphasis>$44.99</emphasis></simpara>
+<simpara><emphasis>416 pages</emphasis></simpara>
 <simpara>The Android development platform, created by Google and the Open Handset Alliance, is a platform in its truest sense, encompassing hundreds of classes beyond the traditional Java classes and open source components that ship with the SDK. With this book, you&#8217;ll learn how to develop applications for Android 2.x mobile devices, using simple examples that are ready to run with your copy of the SDK. Author, Android columnist, writer, developer, and community advocate Mark L. Murphy will show you what you need to know to get started programming Android applications, including how to craft GUIs, use GPS, and access web services.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430226291?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/q8pDk7">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learn_java_for_android_development">
 <title>Learn Java for Android Development</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Jeff Friesen</emphasis>
-<emphasis>ISBN: 9781430231561</emphasis>
-<emphasis>September 2010</emphasis>
-<emphasis>$39.99</emphasis>
-<emphasis>652 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Jeff Friesen</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430231561</emphasis></simpara>
+<simpara><emphasis>September 2010</emphasis></simpara>
+<simpara><emphasis>$39.99</emphasis></simpara>
+<simpara><emphasis>652 pages</emphasis></simpara>
 <simpara>This book teaches programmers of any skill level the essential Java language and foundational Java API skills that must be learned to improve the programmer&#8217;s chances of succeeding as an Android app developer. Each of the book&#8217;s ten chapters provides an exercise section that gives you the opportunity to reinforce your understanding of the chapter&#8217;s material. Answers to the book&#8217;s approximately 300+ exercises are provided in an appendix. Once you complete this book, you will be ready to dive into Android, and you can start that journey by obtaining a copy of Beginning Android 2.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430231561?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/pYDTrE">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_web_geek_s_guide_to_the_android_enabled_phone">
 <title>Web Geek’s Guide to the Android-Enabled Phone</title>
-<simpara><emphasis>Que</emphasis>
-<emphasis>By Jerri Ledford, Bill Zimmerly &amp; Prasanna Amirthalingam</emphasis>
-<emphasis>ISBN: 9780768691993</emphasis>
-<emphasis>September 2009</emphasis>
-<emphasis>$24.99 US</emphasis>
-<emphasis>288 pages</emphasis></simpara>
+<simpara><emphasis>Que</emphasis></simpara>
+<simpara><emphasis>By Jerri Ledford, Bill Zimmerly &amp; Prasanna Amirthalingam</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780768691993</emphasis></simpara>
+<simpara><emphasis>September 2009</emphasis></simpara>
+<simpara><emphasis>$24.99 US</emphasis></simpara>
+<simpara><emphasis>288 pages</emphasis></simpara>
 <simpara>With this book, you’ll unlock every bit of power that’s built into the Android phone and learn how to take advantage of the incredibly innovative Android applications pouring into the marketplace. You’ll even learn how to build (and sell) your own new applications. You won’t just learn how to use your Android phone’s built-in applications, you’ll also learn tips and tricks that’ll make you a power user, fast! From email and YouTube to Google Maps and GPS, if Android can do it, this book will help you do it even better. Are you inspired by Android’s great apps? Create your own! This book gets you started with a complete introduction to Google’s powerful, free Android development toolset!</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780768691993?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/pItaDW">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_intro_to_android_application_development_video">
 <title>Intro to Android Application Development (Video)</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Dan Galpin</emphasis>
-<emphasis>ISBN: 9780321685926</emphasis>
-<emphasis>April 2010</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Dan Galpin</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321685926</emphasis></simpara>
+<simpara><emphasis>April 2010</emphasis></simpara>
 <simpara>Mobile application developer Dan Galpin takes you through a streamlined, fast-paced introduction into developing applications for the latest Android platform. Developers will learn how to create a series of simple, functional, Android applications that take advantage of features unique to the Android platform. It details aspects of handling application resources, creating Android user interfaces, networking, and important concepts such as application lifecycle, interoperation, and multithreading. The target audience for the video is developers familiar with the Java programming language, but who may not have previous experience with mobile development.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780321685926?cid=1107-bibilio-android-link">See it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/pmkgEM">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_developing_android_applications_with_java_part_1_video">
 <title>Developing Android Applications with Java, Part 1 (Video)</title>
-<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
-<emphasis>By Tony Hillerson</emphasis>
-<emphasis>ISBN: 9781449382261</emphasis>
-<emphasis>January 2010</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis></simpara>
+<simpara><emphasis>By Tony Hillerson</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449382261</emphasis></simpara>
+<simpara><emphasis>January 2010</emphasis></simpara>
 <simpara>Learn to build mobile applications for the exciting new Android platform. In this dynamic, online workshop, you&#8217;ll get up to speed on the basics of Android development, including the Android SDK and the Eclipse IDE. As you learn, you&#8217;ll build a simple Android app from start to finish.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781449382261?cid=1107-bibilio-android-link">See it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nibNuE">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_creating_list_based_android_apps_in_app_inventor_video">
 <title>Creating List-Based Android Apps in App Inventor (Video)</title>
-<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
-<emphasis>ISBN: 9781449303495</emphasis>
-<emphasis>February 2011</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449303495</emphasis></simpara>
+<simpara><emphasis>February 2011</emphasis></simpara>
 <simpara>Google&#8217;s App Inventor for Android is poised to turn just about anyone into a developer. You don&#8217;t need years of school or on-the-job experience to start programming Android apps. With an easy interface that doesn&#8217;t require writing any actual code, you&#8217;ll be able to jump in and start building a list-based Quiz app right away. Dave Wolber, professor of computer science at UCSF, takes you through the ins and outs of App Inventor in this O’Reilly Breakdown live video. You&#8217;ll learn how to create a basic user interface and create the functionality for the app by dragging around App Inventor&#8217;s unique and intuitive blocks.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781449303495?cid=1107-bibilio-android-link">See it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/oucH3z">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
-<sect1 id="_appinventor_fundamentals">
-<title>AppInventor Fundamentals</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>Coming 2012</emphasis></simpara>
+<sect1 id="_app_inventor">
+<title>App Inventor</title>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By David Wolber, Hal Abelson, Ellen Spertus &amp; Liz Looney</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449397487</emphasis></simpara>
+<simpara><emphasis>April 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>384 pages</emphasis></simpara>
+<simpara>You can create your own apps for Android phones—and it&#8217;s easy to do. This extraordinary book introduces App Inventor for Android, a powerful visual tool that lets anyone build apps for Android-based devices. Learn the basics of App Inventor with step-by-step instructions for more than a dozen fun projects, such as creating location-aware apps, data storage, and apps that include decision-making logic.</simpara>
+<simpara><emphasis><ulink url="http://techbus.safaribooksonline.com/book/-/9781449306786">Read it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_head_first_android_development">
 <title>Head First Android Development</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Jonathan Simon</emphasis>
-<emphasis>ISBN: 9781449393304</emphasis>
-<emphasis>September 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>608 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Jonathan Simon</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449393304</emphasis></simpara>
+<simpara><emphasis>September 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>608 pages</emphasis></simpara>
 <simpara>Android devices are stealing market share from the iPhone with dramatic speed, and you have a killer app idea. Where to begin? Head First Android Development will help you get your first application up and running in no time with the Android SDK and Eclipse plug-in. You&#8217;ll learn how to design for devices with a variety of different screen sizes and resolutions, along with mastering core programming and design principles that will make your app stand out.</simpara>
 </sect1>
 <sect1 id="_creating_android_applications_develop_and_design">
 <title>Creating Android Applications: Develop and Design</title>
-<simpara><emphasis>Peachpit</emphasis>
-<emphasis>By Chris Haseman</emphasis>
-<emphasis>ISBN: 9780132776622</emphasis>
-<emphasis>November 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>320 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit</emphasis></simpara>
+<simpara><emphasis>By Chris Haseman</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132776622</emphasis></simpara>
+<simpara><emphasis>November 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>320 pages</emphasis></simpara>
 </sect1>
 <sect1 id="_building_your_first_android_app">
 <title>Building Your First Android App</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-By Faisal Abid_
-<emphasis>ISBN: 9781449306496</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$24.99 US</emphasis>
-<emphasis>100 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara>By Faisal Abid_
+<emphasis>ISBN: 9781449306496</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$24.99 US</emphasis></simpara>
+<simpara><emphasis>100 pages</emphasis></simpara>
 <simpara>Google&#8217;s Android Mobile operating system has exploded on the scene and is on its way to become the top mobile operating system. In Rags to Robots you will learn how Android works, how to get started developing applications, explore the vast android library and learn how to publish your application to the various Android Marketplaces.</simpara>
+<sidebar>
+<simpara>Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to <ulink url="http://safaribooksonline.com/oscon11">http://safaribooksonline.com/oscon11</ulink></simpara>
+</sidebar>
 </sect1>
 </chapter>
 <chapter id="_intermediate_advanced_android_development">
 <title>Intermediate-Advanced Android Development</title>
 <sect1 id="_pro_android_3">
 <title>Pro Android 3</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Satya Komatineni, Dave MacLean &amp; Sayed Y. Hashimi</emphasis>
-<emphasis>ISBN: 9781430232223</emphasis>
-<emphasis>April 2011</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>1201 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Satya Komatineni, Dave MacLean &amp; Sayed Y. Hashimi</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430232223</emphasis></simpara>
+<simpara><emphasis>April 2011</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>1201 pages</emphasis></simpara>
 <simpara>Pro Android 3 shows you how to build real-world and fun mobile applications using the new Android 3.0 SDK. It covers everything from the fundamentals of building apps for embedded devices, phones, and tablets to advanced concepts such as custom 3D components and multi-tasking. Using the tutorials and expert advice, you&#8217;ll quickly be able to build cool mobile apps and run them on dozens of Android-based smartphones. You&#8217;ll explore and use the Android APIs, including those for media and sensors. And you&#8217;ll check out what&#8217;s new with Android 3.0, including the improved UI across all Android platforms, integration with WebM, and more, giving you the knowledge to create stunning, cutting-edge apps, while keeping you agile enough to respond to changes in the future.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430232223?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/pOcmuG">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_android_recipes_a_problem_solution_approach">
 <title>Android Recipes: A Problem-Solution Approach</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Dave Smith &amp; Jeff Friesen</emphasis>
-<emphasis>ISBN: 9781430234135</emphasis>
-<emphasis>May 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>456 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Dave Smith &amp; Jeff Friesen</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430234135</emphasis></simpara>
+<simpara><emphasis>May 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>456 pages</emphasis></simpara>
 <simpara>This book guides you step by step through a wide range of useful topics using complete and real-world working code examples. You quickly get a refresh of Android architecture and app fundamentals, and then you get down to business and build an app with Google&#8217;s Android SDK at the command line and Eclipse in an IDE context. Then you&#8217;ll learn how to accomplish practical tasks pertaining to the user interface, communications with the cloud, device hardware, data persistence, communications between applications, and interacting with Android itself. Finally, you&#8217;ll learn how to leverage various libraries and Scripting Layer for Android to help you perform tasks more quickly; how to use the Android NDK to boost app performance; and how to design apps for performance, responsiveness, seamlessness, and more.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430234135?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/prLHo7">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_android_in_action_second_edition">
 <title>Android in Action, Second Edition</title>
-<simpara><emphasis>Manning Publications</emphasis>
-<emphasis>By W. Frank Ableson, Robi Sen &amp; Chris King</emphasis>
-<emphasis>ISBN: 9781935182726</emphasis>
-<emphasis>January 2011</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>592 pages</emphasis></simpara>
+<simpara><emphasis>Manning Publications</emphasis></simpara>
+<simpara><emphasis>By W. Frank Ableson, Robi Sen &amp; Chris King</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781935182726</emphasis></simpara>
+<simpara><emphasis>January 2011</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>592 pages</emphasis></simpara>
 <simpara>This book prepares you to embrace the Android mobile platform in easy-to-understand language and builds on this foundation with reusable Java code examples. It&#8217;s ideal for corporate developers and hobbyists who have an interest, or a mandate, to deliver mobile software. This book familiarizes the reader with the Android approach to mobile applications. The Android application framework is thoroughly explained and discussed within the current competitive landscape. Following the release of Android 2.0, this edition has been updated to cover hot topics such as Bluetooth integration, web development strategies, AppWidget framework, sensor management, the Android Native Development Kit, and localization.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781935182726?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/rjNsdQ">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_professional_android_2_application_development">
 <title>Professional Android™ 2 Application Development</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Reto Meier</emphasis>
-<emphasis>ISBN: 9780470565520</emphasis>
-<emphasis>March 2010</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>575 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Reto Meier</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470565520</emphasis></simpara>
+<simpara><emphasis>March 2010</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>575 pages</emphasis></simpara>
 <simpara>This update to the bestselling first edition dives in to cover the exciting new features of the latest release of the Android mobile platform. Providing in-depth coverage of how to build mobile applications using the next major release of the Android SDK, this invaluable resource takes a hands-on approach to discussing Android with a series of projects, each of which introduces a new feature and highlights techniques and best practices to get the most out of Android.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780470565520?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/oq3qPd">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_pro_android_2">
 <title>Pro Android 2</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Sayed Y. Hashimi, Satya Komatineni, &amp; Dave MacLean</emphasis>
-<emphasis>ISBN: 9781430226598</emphasis>
-<emphasis>March 2010</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>736 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Sayed Y. Hashimi, Satya Komatineni, &amp; Dave MacLean</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430226598</emphasis></simpara>
+<simpara><emphasis>March 2010</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>736 pages</emphasis></simpara>
 <simpara>This book shows you how to build real-world and fun mobile applications using Google&#8217;s latest Android SDK. This edition is fully updated for Android 2, covering everything from the fundamentals of building applications for embedded devices to advanced concepts such as custom 3D components, OpenGL, and touchscreens including gestures. Discover the design and architecture of the Android SDK through practical examples, and how to build mobile applications using the Android SDK. This book dives deep, providing you with all the knowledge and techniques you need to build mobile applications ranging from games to Google apps, including add-ons to Google Docs. You&#8217;ll be able to extend and run the new Google Chrome APIs on the G1, the G2, and other next-generation Google phones and Android-enabled devices.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430226598?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nL4MKr">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_android_wireless_application_development_second_edition">
 <title>Android Wireless Application Development, Second Edition</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Shane Conder &amp; Lauren Darcey</emphasis>
-<emphasis>ISBN: 9780132484473</emphasis>
-<emphasis>December 2010</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>792 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Shane Conder &amp; Lauren Darcey</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132484473</emphasis></simpara>
+<simpara><emphasis>December 2010</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>792 pages</emphasis></simpara>
 <simpara>This book delivers all the up-to-date information, tested code, and best practices you need to create and market successful mobile apps with the latest versions of Android. Drawing on their extensive experience with mobile and wireless development, Lauren Darcey and Shane Conder cover every step: concept, design, coding, testing, packaging, and delivery. All sample code has been overhauled and tested on leading devices from multiple companies, including HTC, Motorola, and ARCHOS. Many new examples have been added, including complete new applications. This book is an indispensable resource for every member of the Android development team: software developers with all levels of mobile experience, team leaders and project managers, testers and QA specialists, software architects, and even marketers.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132484473?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/rtjWht">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_the_android_developer_s_cookbook_building_applications_with_the_android_sdk">
 <title>The Android Developer’s Cookbook: Building Applications with the Android SDK</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By James Steele &amp; Nelson To</emphasis>
-<emphasis>ISBN: 9780132478014</emphasis>
-<emphasis>October 20102</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>400 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By James Steele &amp; Nelson To</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132478014</emphasis></simpara>
+<simpara><emphasis>October 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>400 pages</emphasis></simpara>
 <simpara>This book brings together all the expert guidance–and code–you’ll need to build Android applications! This book is the essential resource for developers building apps for any Android device, from phones to tablets. Proven, modular recipes take you from the absolute basics to advanced location-based services, security techniques, and performance optimization. You’ll learn how to write apps from scratch, ensure interoperability, choose the best solutions for common problems, and avoid development pitfalls. Turn to this book for proven, expert answers–and the code you need to implement them. It’s all you need to jumpstart any Android project, and create high-value, feature-rich apps that sell!</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132478014?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/qqIWgZ">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_practical_android_projects">
 <title>Practical Android Projects</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Lucas Jordan &amp; Pieter Greyling</emphasis>
-<emphasis>ISBN: 9781430232438</emphasis>
-<emphasis>February 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>418 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Lucas Jordan &amp; Pieter Greyling</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430232438</emphasis></simpara>
+<simpara><emphasis>February 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>418 pages</emphasis></simpara>
 <simpara>This book provides you first with a brief and concise introduction to the Android platform. It then dives right into setting up the Android SDK. Starting from scratch, you will learn how to set up the tools and configure Eclipse and Netbeans with their appropriate Android plug-ins on top of the Android SDK. Then you will build and extend fun mobile applications using the Android SDK, Java, Scripting Layer for Android, and languages such as Python, Ruby, Javascript/HTML, Flex/AIR, and Lua.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430232438?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/qjulzf">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_android_apps_marketing_secrets_to_selling_your_android_app">
 <title>Android Apps Marketing: Secrets to Selling Your Android App</title>
-<simpara><emphasis>Que</emphasis>
-<emphasis>By Jeffrey Hughes</emphasis>
-<emphasis>ISBN: 9780132378291</emphasis>
-<emphasis>September 2010</emphasis>
-<emphasis>$24.99 US</emphasis>
-<emphasis>320 pages</emphasis></simpara>
+<simpara><emphasis>Que</emphasis></simpara>
+<simpara><emphasis>By Jeffrey Hughes</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132378291</emphasis></simpara>
+<simpara><emphasis>September 2010</emphasis></simpara>
+<simpara><emphasis>$24.99 US</emphasis></simpara>
+<simpara><emphasis>320 pages</emphasis></simpara>
 <simpara>The Easy, Complete, Step-by-Step Guide to Marketing Your Android Apps!</simpara>
 <simpara>There are huge profits to be made in selling Android apps! But with so many apps now available, posting your app to the Android Market is no longer enough. You need to market your app effectively. Don’t know much about marketing? Don’t worry: This book gives you all the step-by-step help you’ll need. Top app marketing consultant Jeffrey Hughes walks you through building a winning marketing plan, crafting highly competitive apps, choosing your message, building buzz, and connecting with people who’ll actually buy your app. Packed with examples, this book makes Android apps marketing easy!</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132378291?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nerih0">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_how_to_make_money_marketing_your_android_apps">
 <title>How to Make Money Marketing Your Android Apps</title>
-<simpara><emphasis>FT Press</emphasis>
-<emphasis>By Jeffrey Hughes</emphasis>
-<emphasis>ISBN: 9780132732055</emphasis>
-<emphasis>February 2011</emphasis>
-<emphasis>15 pages</emphasis></simpara>
+<simpara><emphasis>FT Press</emphasis></simpara>
+<simpara><emphasis>By Jeffrey Hughes</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132732055</emphasis></simpara>
+<simpara><emphasis>February 2011</emphasis></simpara>
+<simpara><emphasis>15 pages</emphasis></simpara>
 <simpara>This FT Press digital short provides you with a complete plan for selling your Android apps — including little-known techniques based on Google’s unique “open selling model”. Unlike Apple, Google allows developers to market their apps from any site, including your own, not just the Android Market. Google’s open sales model, while still maturing, can provide advantages over Apple’s closed model — if you take advantage of the options Google gives you. This digital short identifies key marketing activities that can help you succeed.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132732055?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nB9nc0">Read it on Safari Books Online</ulink></emphasis></simpara>
+</sect1>
+<sect1 id="_android_app_development_amp_design_learn_by_video">
+<title>Android App Development &amp; Design: Learn by Video</title>
+<simpara><emphasis>Peachpit</emphasis></simpara>
+<simpara><emphasis>By Ehrenstein video2brain</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780132808781</emphasis></simpara>
+<simpara><emphasis>June 2011</emphasis></simpara>
+<simpara>This innovative product uses interactive video to give developer/designers a solid understanding of how to design apps that can run on many different Android-based devices, under Android versions up to 2.3. It introduces the process of programming an app&#8217;s interaction with Activities and Services and explains how to access existing Android system components. It also looks at how to ensure that an app runs on as many Android devices, screen sizes, and form factors as possible. It explains how to package an app and publish it to the Android Marketplace. Experienced instructor Constantin Ehrenstein presents five hours of exceptional quality video tutorials, complete with lesson files, assessment quizzes, and review materials.</simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nsRS3S">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_programming_android">
 <title>Programming Android</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Zigurd Mednieks, Laird Dornin, G. Blake Meike &amp; Masumi Nakamura</emphasis>
-<emphasis>ISBN: 9781449389697</emphasis>
-<emphasis>July 2011</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>496 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Zigurd Mednieks, Laird Dornin, G. Blake Meike &amp; Masumi Nakamura</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449389697</emphasis></simpara>
+<simpara><emphasis>July 2011</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>496 pages</emphasis></simpara>
 <simpara>This authoritative guide shows experienced application developers what they need to program for the Android operating system – the core building blocks, how to put those blocks together, and how to build compelling apps that work on a full range of Android devices. Buy the print book or early release ebook, which includes Android Package (APK), ePub, Mobi, and PDF.</simpara>
 </sect1>
 <sect1 id="_getting_started_with_nfc">
 <title>Getting Started with NFC</title>
-<simpara><emphasis>O&#8217;Reilly Media</emphasis>
-<emphasis>By Brian Jepson &amp; Tom Igoe</emphasis>
-<emphasis>ISBN: 9781449308520</emphasis>
-<emphasis>August 2011</emphasis>
-<emphasis>$19.99 US</emphasis>
-<emphasis>30 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media</emphasis></simpara>
+<simpara><emphasis>By Brian Jepson &amp; Tom Igoe</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449308520</emphasis></simpara>
+<simpara><emphasis>August 2011</emphasis></simpara>
+<simpara><emphasis>$19.99 US</emphasis></simpara>
+<simpara><emphasis>30 pages</emphasis></simpara>
 <simpara>NFC, or Near Field Communication, is a protocol for the contactless exchange of data between devices (such as the Android-powered Nexus S) and/or certain kinds of tags. NFC also interoperates with certain RFID tags such as the Mifare tags. Where the fun begins is when you throw hobbyist hardware into the mix. The inexpensive ($30) SonMicro RFID reader/writer, when paired with an equally inexpensive antenna, gives you the ability to encode custom messages on RFID tags that you can later read by tapping the tags against your phone. This book shows how you can exchange data between Android, Arduino, and Processing using NFC and RFID.</simpara>
-</sect1>
-<sect1 id="_android_app_development_amp_design_learn_by_video">
-<title>Android App Development &amp; Design: Learn by Video</title>
-<simpara><emphasis>Peachpit</emphasis>
-<emphasis>By Ehrenstein video2brain</emphasis>
-<emphasis>ISBN: 9780132808781</emphasis>
-<emphasis>June 2011</emphasis></simpara>
-<simpara>This innovative product uses interactive video to give developer/designers a solid understanding of how to design apps that can run on many different Android-based devices, under Android versions up to 2.3. It introduces the process of programming an app&#8217;s interaction with Activities and Services and explains how to access existing Android system components. It also looks at how to ensure that an app runs on as many Android devices, screen sizes, and form factors as possible. It explains how to package an app and publish it to the Android Marketplace. Experienced instructor Constantin Ehrenstein presents five hours of exceptional quality video tutorials, complete with lesson files, assessment quizzes, and review materials.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132808781?cid=1107-bibilio-android-link">See it on Safari Online Books</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_using_opengl_es_2_0_for_android_development_develop_and_design">
 <title>Using OpenGL ES 2.0 for Android Development: Develop and Design</title>
-<simpara><emphasis>Peachpit</emphasis>
-<emphasis>By Adam Schwem</emphasis>
-<emphasis>ISBN: 978-0321792150</emphasis>
-<emphasis>August 2011</emphasis>
-<emphasis>$29.99</emphasis>
-<emphasis>160 pages</emphasis></simpara>
+<simpara><emphasis>Peachpit</emphasis></simpara>
+<simpara><emphasis>By Adam Schwem</emphasis></simpara>
+<simpara><emphasis>ISBN: 978-0321792150</emphasis></simpara>
+<simpara><emphasis>August 2011</emphasis></simpara>
+<simpara><emphasis>$29.99</emphasis></simpara>
+<simpara><emphasis>160 pages</emphasis></simpara>
+<sidebar>
+<simpara>Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to <ulink url="http://safaribooksonline.com/oscon11">http://safaribooksonline.com/oscon11</ulink></simpara>
+</sidebar>
 </sect1>
 </chapter>
 <chapter id="_mobile_web">
 <title>Mobile Web</title>
 <sect1 id="_pro_android_web_apps_develop_for_android_using_html5_css3_amp_javascript">
 <title>Pro Android Web Apps: Develop for Android Using HTML5, CSS3 &amp; JavaScript</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Damon Oehlman &amp; Sébastien Blanc</emphasis>
-<emphasis>ISBN: 9781430232766</emphasis>
-<emphasis>January 2011</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>392 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Damon Oehlman &amp; Sébastien Blanc</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430232766</emphasis></simpara>
+<simpara><emphasis>January 2011</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>392 pages</emphasis></simpara>
 <simpara>Developing applications for Android and other mobile devices using web technologies is now well within reach. When the capabilities of HTML5 are combined with CSS3 and Javascript, web application developers have an opportunity to develop compelling mobile applications using familiar tools. Not only is it possible to build mobile web apps that feel as good as native apps, but to also write an application once and have it run a variety of different devices. This book teaches developers already familiar with web application development, how to code and structure a web app for use on the Android mobile platform. Additionally, through the practical samples in the book you will have been given solid exposure of where both the opportunities and challenges lie when building mobile apps the web way.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430232766?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nE4ws1">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_building_android_apps_with_html_css_and_javascript">
 <title>Building Android Apps with HTML, CSS, and JavaScript</title>
-<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
-<emphasis>By Jonathan Stark</emphasis>
-<emphasis>ISBN: 9781449399122</emphasis>
-<emphasis>November 2010</emphasis>
-<emphasis>$29.99 US</emphasis>
-<emphasis>184 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis></simpara>
+<simpara><emphasis>By Jonathan Stark</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449399122</emphasis></simpara>
+<simpara><emphasis>November 2010</emphasis></simpara>
+<simpara><emphasis>$29.99 US</emphasis></simpara>
+<simpara><emphasis>184 pages</emphasis></simpara>
 <simpara>If you know HTML, CSS, and JavaScript, you already have the tools you need to develop Android apps. With this book, you&#8217;ll learn how to use these web technologies to design and build apps for any Android device, using the framework of your choice. No knowledge of Java is required.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781449399122?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/qRblrj">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learning_html5_game_programming_a_hands_on_guide_to_building_online_games_using_canvas_svg_and_webgl">
 <title>Learning HTML5 Game Programming: A Hands-on Guide to Building Online Games Using Canvas, SVG, and WebGL</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By James L. Williams</emphasis>
-<emphasis>ISBN: 9780321767363</emphasis>
-<emphasis>Rough Cut available now; 9/26/11 pub date (estimated)</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>350 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By James L. Williams</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321767363</emphasis></simpara>
+<simpara><emphasis>Rough Cut available now; 9/26/11 pub date (estimated)</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>350 pages</emphasis></simpara>
 <simpara>In this book you will learn how to create your HTML5- and JavaScript-based game by constructing several sample applications throughout the course of the chapters. You&#8217;ll learn how and when to use Canvas, SVG, and WebGL, and how to use mobile SDKs to develop your game. Author James Williams not only teaches you the basic properties of any successful Web-based game but even walks you through a truncated development process to guide you in the development of your application. NOTE: This is an early draft version of Learning HTML5 Game Programming. As the author completes each chapter it will be uploaded here for your review and feedback.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132685108?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/qCzXP5">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_sams_teach_yourself_html5_mobile_application_development_in_24_hours">
 <title>Sams Teach Yourself HTML5 Mobile Application Development in 24 Hours</title>
-<simpara><emphasis>Sams</emphasis>
-<emphasis>By Jennifer Kyrnin</emphasis>
-<emphasis>ISBN: 9780672334405</emphasis>
-<emphasis>December 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>448 pages</emphasis></simpara>
+<simpara><emphasis>Sams</emphasis></simpara>
+<simpara><emphasis>By Jennifer Kyrnin</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780672334405</emphasis></simpara>
+<simpara><emphasis>December 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>448 pages</emphasis></simpara>
 <simpara>Learn how to turn Web pages into stunning mobile applications in just 24 hours or less! HTML5 adds a number of new features and APIs to the language that allow web designers to be more descriptive and effective in creating their Web pages. Using the new APIs you can build offline Web applications, work with location data, store data on a local computer in a manner similar to cookies and more! In this book author Jennifer Kyrnin walks you through how to get started with the HTML5 specification to build great mobile applications.</simpara>
 </sect1>
 <sect1 id="_beginning_smartphone_web_development_building_javascript_css_html_and_ajax_based_applications_for_iphone_android_palm_pre_blackberry_windows_mobile_and_nokia_s60">
 <title>Beginning Smartphone Web Development: Building JavaScript, CSS, HTML and Ajax-based Applications for iPhone, Android, Palm Pre, BlackBerry, Windows Mobile, and Nokia S60</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Gail Frederick</emphasis>
-<emphasis>ISBN: 9781430226208</emphasis>
-<emphasis>January 2010</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>368 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Gail Frederick</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430226208</emphasis></simpara>
+<simpara><emphasis>January 2010</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>368 pages</emphasis></simpara>
 <simpara>By the end of this book, you&#8217;ll have the training, tools, and techniques for creating robust mobile web experiences on a wide array of platforms for your favorite smartphone or other mobile device.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430226208?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/n1FlfT">Read it on Safari Books Online</ulink></emphasis></simpara>
+<sidebar>
+<simpara>Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to <ulink url="http://safaribooksonline.com/oscon11">http://safaribooksonline.com/oscon11</ulink></simpara>
+</sidebar>
 </sect1>
 </chapter>
 <chapter id="_cross_platform">
 <title>Cross Platform</title>
 <sect1 id="_professional_flash_mobile_development_creating_android_and_iphone_applications">
 <title>Professional Flash® Mobile Development: Creating Android™ and iPhone® Applications</title>
-<simpara><emphasis>Wrox</emphasis>
-<emphasis>By Richard Wagner</emphasis>
-<emphasis>ISBN: 9780470620076</emphasis>
-<emphasis>January 2011</emphasis>
-<emphasis>$39.99</emphasis>
-<emphasis>336 pages</emphasis></simpara>
+<simpara><emphasis>Wrox</emphasis></simpara>
+<simpara><emphasis>By Richard Wagner</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780470620076</emphasis></simpara>
+<simpara><emphasis>January 2011</emphasis></simpara>
+<simpara><emphasis>$39.99</emphasis></simpara>
+<simpara><emphasis>336 pages</emphasis></simpara>
 <simpara>This Wrox guide shows Flash developers how to create native applications for Android and iPhone mobile devices using Flash. Packed with practical examples, it shows how to build a variety of apps and integrate them with core mobile services such as Accelerometer, GPS, Photo Library,and more. This book shows you how to design a user interface optimized for Android and iOS and offers plenty of examples for building native Android and iPhone apps with Flash, migrating existing Flash media, testing and debugging applications, and more. This book answers the demand for Flash-capable Android and iPhone applications.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780470620076?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/o7jg22">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_developing_android_applications_with_adobe_air">
 <title>Developing Android Applications with Adobe AIR</title>
-<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
-<emphasis>By Véronique Brossier</emphasis>
-<emphasis>ISBN: 9781449394820</emphasis>
-<emphasis>May 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>316 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis></simpara>
+<simpara><emphasis>By Véronique Brossier</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449394820</emphasis></simpara>
+<simpara><emphasis>May 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>316 pages</emphasis></simpara>
 <simpara>If you want to use your ActionScript skills to build mobile applications for the Android OS, this thorough guide will show you how to use the unique programming environment, architecture, and tools in the Adobe AIR for Android SDK. You&#8217;ll get practical hands-on experience on a wide range of development topics, from device-specific features to optimization techniques and best practices&#8201;&#8212;&#8201;including how expand your mobile development experience beyond Android to other platforms. This book takes you through the entire development process, with ready-to-run example code.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781449398682?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/oxUe6E">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_pro_smartphone_cross_platform_development_iphone_blackberry_windows_mobile_and_android_development_and_distribution">
 <title>Pro Smartphone Cross-Platform Development: iPhone, BlackBerry, Windows Mobile, and Android Development and Distribution</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Sarah Allen, Vidal Graupera &amp; Lee Lundrigan</emphasis>
-<emphasis>ISBN: 9781430228684</emphasis>
-<emphasis>September 2010</emphasis>
-<emphasis>$49.99 US</emphasis>
-<emphasis>285 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Sarah Allen, Vidal Graupera &amp; Lee Lundrigan</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430228684</emphasis></simpara>
+<simpara><emphasis>September 2010</emphasis></simpara>
+<simpara><emphasis>$49.99 US</emphasis></simpara>
+<simpara><emphasis>285 pages</emphasis></simpara>
 <simpara>Learn the theory behind cross-platform development, and put the theory into practice with code using the invaluable information presented in this book. With in-depth coverage of development and distribution techniques for iPhone, BlackBerry, Windows Mobile, and Android, you&#8217;ll learn the native approach to working with each of these platforms. With detailed coverage of emerging frameworks like PhoneGap and Rhomobile, you&#8217;ll learn the art of creating applications that will run across all devices. You&#8217;ll also be introduced to the code-signing process and the distribution of applications through the major application stores, including RIM, Apple, and Microsoft.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430228684?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/qs6DCe">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_developing_android_applications_with_flex_4_5">
 <title>Developing Android Applications with Flex 4.5</title>
-<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis>
-<emphasis>By Rich Tretola</emphasis>
-<emphasis>ISBN: 9781449305376</emphasis>
-<emphasis>May 2011</emphasis>
-<emphasis>$24.99 US</emphasis>
-<emphasis>112 pages</emphasis></simpara>
+<simpara><emphasis>O&#8217;Reilly Media, Inc.</emphasis></simpara>
+<simpara><emphasis>By Rich Tretola</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781449305376</emphasis></simpara>
+<simpara><emphasis>May 2011</emphasis></simpara>
+<simpara><emphasis>$24.99 US</emphasis></simpara>
+<simpara><emphasis>112 pages</emphasis></simpara>
 <simpara>Developing Android applications using Adobe Flex 4.5 for mobile will walk you through creating your first AIR on Android application. You will also learn how to interact with the devices camera, gallery, accelerometer, GPS, multi touch display and native services using Adobe Flex 4.5. Finally, you will learn how to compile your application and deploy it to the Android market.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781449308001?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/p70MSO">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_multimobile_development_building_applications_for_the_iphone_and_android_platforms">
 <title>Multimobile Development: Building Applications for the iPhone and Android Platforms</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Matthew Baxter-Reynolds</emphasis>
-<emphasis>ISBN: 9781430231981</emphasis>
-<emphasis>September 2010</emphasis>
-<emphasis>$54.99 US</emphasis>
-<emphasis>478 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Matthew Baxter-Reynolds</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430231981</emphasis></simpara>
+<simpara><emphasis>September 2010</emphasis></simpara>
+<simpara><emphasis>$54.99 US</emphasis></simpara>
+<simpara><emphasis>478 pages</emphasis></simpara>
 <simpara>In this book you&#8217;ll learn how to quickly retool between the iPhone and Android platforms and broaden the interest and audience of your app, without working with burdensome and error-prone compatibility layers and toolkits. You’ll learn the differences between and the relative strengths and weaknesses of each platform as you go. No magic intermediate layers of obfuscation—by the time you get to the end you&#8217;ll be an expert at developing for any of the major smartphone platforms using each vendor&#8217;s preferred toolset and approach.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430231981?cid=1107-bibilio-android-link">Read in on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nwhQYO">Read it on Safari Books Online</ulink></emphasis></simpara>
+<sidebar>
+<simpara>Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to <ulink url="http://safaribooksonline.com/oscon11">http://safaribooksonline.com/oscon11</ulink></simpara>
+</sidebar>
 </sect1>
 </chapter>
 <chapter id="_games">
 <title>Games</title>
 <sect1 id="_beginning_android_games">
 <title>Beginning Android Games</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Mario Zechner</emphasis>
-<emphasis>ISBN: 9781430230427</emphasis>
-<emphasis>April 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>686 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Mario Zechner</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430230427</emphasis></simpara>
+<simpara><emphasis>April 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>686 pages</emphasis></simpara>
 <simpara>This book offers everything you need to join the ranks of successful Android game developers. You&#8217;ll start with game design fundamentals and programming basics, and then progress towards creating your own basic game engine and playable games. This will give you everything you need to branch out and write your own Android games. This book will guide you through the process of making several example games for the Android platform, including 2d and 3d games. For people with a basic knowledge of Java who want to write games on the Android platform, it also offers information for experienced game developers about the pitfalls and peculiarities of the platform.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430230427?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nP2Dmf">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_pro_android_games">
 <title>Pro Android Games</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Vladimir Silva</emphasis>
-<emphasis>ISBN: 9781430226475</emphasis>
-<emphasis>December 2009</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>300 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Vladimir Silva</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430226475</emphasis></simpara>
+<simpara><emphasis>December 2009</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>300 pages</emphasis></simpara>
 <simpara>This book teaches you how to build cool games like Space Blaster and the classic Asteroids from scratch on the latest Android platform. It also shows you how to port other classic freeware/shareware games like Doom and Wolfenstein 3D from C using the Java Native Interface (JNI) for Android. By combining the elegant object-oriented features of Java and the raw power of C, there is no limit to the types of games that you can build for the Android platform. With actionable real-world source code in hand, this book allows you to dive right into games development on Android.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430226475?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/nvR7vb">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_learning_android_game_programming_a_hands_on_guide_to_building_your_first_android_game">
 <title>Learning Android Game Programming: A Hands-On Guide to Building Your First Android Game</title>
-<simpara><emphasis>Addison-Wesley Professional</emphasis>
-<emphasis>By Richard A. Rogers</emphasis>
-<emphasis>ISBN: 9780321769626</emphasis>
-<emphasis>December 2011</emphasis>
-<emphasis>$39.99 US</emphasis>
-<emphasis>600 pages</emphasis></simpara>
+<simpara><emphasis>Addison-Wesley Professional</emphasis></simpara>
+<simpara><emphasis>By Richard A. Rogers</emphasis></simpara>
+<simpara><emphasis>ISBN: 9780321769626</emphasis></simpara>
+<simpara><emphasis>December 2011</emphasis></simpara>
+<simpara><emphasis>$39.99 US</emphasis></simpara>
+<simpara><emphasis>600 pages</emphasis></simpara>
 <simpara>Professional game development of complex 3D games is difficult and expensive, and it is beyond the reach of the individual developer. But there is also a class of games that a single developer can easily build using only Java/Dalvik and the standard APIs offered by the Android SDK. This book provides the knowledge and example code that will allow a relatively junior Android developer to develop their own games in Java and XML. It will also show you how to make your game available for download on Android Market.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9780132711913?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/qc8Dc3">Read it on Safari Books Online</ulink></emphasis></simpara>
+<sidebar>
+<simpara>Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to <ulink url="http://safaribooksonline.com/oscon11">http://safaribooksonline.com/oscon11</ulink></simpara>
+</sidebar>
 </sect1>
 </chapter>
 <chapter id="_graphics">
 <title>Graphics</title>
 <sect1 id="_android_user_interface_development_beginner_8217_s_guide">
 <title>Android User Interface Development Beginner&#8217;s Guide</title>
-<simpara><emphasis>Packt Publishing</emphasis>
-<emphasis>By Jason Morris</emphasis>
-<emphasis>ISBN: 9781849514484</emphasis>
-<emphasis>February 2011</emphasis>
-<emphasis>$40.49 US</emphasis>
-<emphasis>304 pages</emphasis></simpara>
+<simpara><emphasis>Packt Publishing</emphasis></simpara>
+<simpara><emphasis>By Jason Morris</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781849514484</emphasis></simpara>
+<simpara><emphasis>February 2011</emphasis></simpara>
+<simpara><emphasis>$40.49 US</emphasis></simpara>
+<simpara><emphasis>304 pages</emphasis></simpara>
 <simpara>Working through examples, code-snippets, and screenshots this book introduces the fundamentals of good Android user-interface design from a developer&#8217;s point of view. This book tells you everything you need to know to style your applications from the bottom up. Starting simply, and keeping things easy, this book will take you on a step-by-step journey to understanding the principals of good user-interface design, and how to implement the best user interfaces on an Android mobile device. It aims at building design understanding on a chapter-by-chapter basis, while introducing platform knowledge through examples.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781849514484?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/qh5iVM">Read it on Safari Books Online</ulink></emphasis></simpara>
 </sect1>
 <sect1 id="_pro_android_media_developing_graphics_music_video_and_rich_media_apps_for_smartphones_and_tablets">
 <title>Pro Android Media: Developing Graphics, Music, Video, and Rich Media Apps for Smartphones and Tablets</title>
-<simpara><emphasis>Apress</emphasis>
-<emphasis>By Shawn Van Every</emphasis>
-<emphasis>ISBN: 9781430232674</emphasis>
-<emphasis>December 2010</emphasis>
-<emphasis>$44.99 US</emphasis>
-<emphasis>314 pages</emphasis></simpara>
+<simpara><emphasis>Apress</emphasis></simpara>
+<simpara><emphasis>By Shawn Van Every</emphasis></simpara>
+<simpara><emphasis>ISBN: 9781430232674</emphasis></simpara>
+<simpara><emphasis>December 2010</emphasis></simpara>
+<simpara><emphasis>$44.99 US</emphasis></simpara>
+<simpara><emphasis>314 pages</emphasis></simpara>
 <simpara>This book provides concise and clear instruction on how to use the media APIs made available through Android to create dynamic apps, from gaining access to the camera to complex video capture. It also covers sound, graphics, painting, and more—everything you need to make your app come "alive." After reading this book, the app you create will showcase the best of multimedia that Android has to offer.</simpara>
-<simpara><emphasis><ulink url="http://my.safaribooksonline.com/book/programming/android/9781430232674?cid=1107-bibilio-android-link">Read it on Safari Online Books</ulink></emphasis></simpara>
+<simpara><emphasis><ulink url="http://bit.ly/podRal">Read it on Safari Books Online</ulink></emphasis></simpara>
+<sidebar>
+<simpara>Safari Books Online provides full access to all of the resources in this bibliography. For a free trial, go to <ulink url="http://safaribooksonline.com/oscon11">http://safaribooksonline.com/oscon11</ulink></simpara>
+</sidebar>
 </sect1>
 </chapter>
 </book>

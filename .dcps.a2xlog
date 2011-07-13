@@ -14,12 +14,11 @@ asciidoc: book.asc: line 2: macro redefinition:
 asciidoc: book.asc: line 2: macro redefinition: #
 asciidoc: writing: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/book.dcpsgen.xml
 asciidoc: book.asc: line 2: evaluating: {include:/work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/book-docinfo.xml}
-asciidoc: WARNING: book.asc: line 9: include file not found: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/preface.asciidoc
-asciidoc: book.asc: line 11: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_introduction.asciidoc
-asciidoc: book.asc: line 13: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter1.asciidoc
-asciidoc: book.asc: line 15: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter2.asciidoc
-asciidoc: book.asc: line 17: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter3.asciidoc
-asciidoc: book.asc: line 19: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter4.asciidoc
-asciidoc: book.asc: line 21: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter5.asciidoc
-asciidoc: book.asc: line 23: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter6.asciidoc
-Wed Jul  6 16:38:14 EDT 2011
+asciidoc: book.asc: line 9: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_introduction.asciidoc
+asciidoc: book.asc: line 11: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter1.asciidoc
+asciidoc: book.asc: line 13: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter2.asciidoc
+asciidoc: book.asc: line 15: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter3.asciidoc
+asciidoc: book.asc: line 17: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter4.asciidoc
+asciidoc: book.asc: line 19: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter5.asciidoc
+asciidoc: book.asc: line 21: reading: /work/tools/svn_hooks/checkouts/externalauthorsbooks9781449311827current/android_chapter6.asciidoc
+Mon Jul 11 22:14:07 EDT 2011
